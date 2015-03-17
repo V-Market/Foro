@@ -2,20 +2,20 @@
  * Created by manuel on 16/03/2015.
  */
 package foro
-public class Usuario {
+public class User {
     private String name;
     private String last_name;
     private int age;
     private String username;
     private String password;
-    public Usuario(){
+    public User(){
         name = "";
         last_name = "";
         age = 10;
         username = "";
         password = "";
     }
-    public Usuario(String n, String ln, int a, String u, String p){
+    public User(String n, String ln, int a, String u, String p){
         name = n;
         last_name = ln;
         age = a;
