@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Foro.iml" filepath="$PROJECT_DIR$/Foro.iml" />
       <module fileurl="file://$PROJECT_DIR$/Foro-grailsPlugins.iml" filepath="$PROJECT_DIR$/Foro-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user-grailsPlugins.iml" filepath="$PROJECT_DIR$/user/user-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
