@@ -1,6 +1,7 @@
 /**
  * Created by manuel on 16/03/2015.
  */
+package foro
 public class Usuario {
     private String name;
     private String last_name;
