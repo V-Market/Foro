@@ -554,7 +554,7 @@
       <workItem from="1426560297596" duration="1816000" />
       <workItem from="1426562979714" duration="409000" />
       <workItem from="1426563563937" duration="1529000" />
-      <workItem from="1426565155271" duration="1093000" />
+      <workItem from="1426565155271" duration="1110000" />
     </task>
     <task id="LOCAL-00001" summary="Commit integrantes">
       <created>1426558857809</created>
@@ -598,15 +598,21 @@
       <option name="project" value="LOCAL" />
       <updated>1426565495949</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit Clase Regular By John Ubaldo ;)">
+      <created>1426566261620</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1426566261620</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6301000" />
+    <option name="totallyTimeSpent" value="6318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
