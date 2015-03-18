@@ -34,6 +34,8 @@
       <excludeFolder url="file://$MODULE_DIR$/target/classes" />
       <excludeFolder url="file://$MODULE_DIR$/target/work/plugin-build-classes" />
       <excludeFolder url="file://$MODULE_DIR$/target/work/plugin-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/target/work/plugin-provided-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/target/work/resources" />
       <excludeFolder url="file://$MODULE_DIR$/target/work/scriptCache" />
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
